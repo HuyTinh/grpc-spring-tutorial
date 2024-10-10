@@ -5,10 +5,20 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/client_server/client_server/pom.xml" />
+        <option value="$PROJECT_DIR$/client_server/pom.xml" />
+        <option value="$PROJECT_DIR$/client-server/client-service/pom.xml" />
+        <option value="$PROJECT_DIR$/client-server/grpc-service/pom.xml" />
+        <option value="$PROJECT_DIR$/client-server/proto/pom.xml" />
+        <option value="$PROJECT_DIR$/client-server/pom.xml" />
       </list>
     </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/client_server/untitled/pom.xml" />
+      </set>
+    </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="openjdk-21" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>

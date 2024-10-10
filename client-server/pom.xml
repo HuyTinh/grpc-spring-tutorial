@@ -9,8 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.grpc</groupId>
-    <artifactId>client_server</artifactId>
+    <artifactId>client-server</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <packaging>pom</packaging>
     <name>client_server</name>
     <description>client_server</description>
     <url/>
@@ -20,6 +21,11 @@
     <developers>
         <developer/>
     </developers>
+    <modules>
+        <module>proto</module>
+        <module>grpc-service</module>
+        <module>client-service</module>
+    </modules>
     <scm>
         <connection/>
         <developerConnection/>
