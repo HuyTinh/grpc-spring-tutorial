@@ -5,6 +5,9 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/client_server/client_server/pom.xml" />
+        <option value="$PROJECT_DIR$/client-server/grpc-service/pom.xml" />
+        <option value="$PROJECT_DIR$/client-server/proto/pom.xml" />
+        <option value="$PROJECT_DIR$/client-server/pom.xml" />
       </list>
     </option>
   </component>
